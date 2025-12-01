@@ -12,9 +12,9 @@ The analysis was conducted in a Jupyter Notebook (Python_Final_Project2.ipynb) a
 
 ├── Python_Final_Project2.ipynb - Full analysis notebook (EDA, KPIs, insights) <br>
 ├── README.md - Project documentation (this file) <br>
-├── Images - All generated plots (.png) <br>
+├── images - All generated plots (.png) <br>
 ├── Python Final Project.csv - HR dataset used in the analysis <br>
-├── Dashboard - Streamlit dashboard <br>
+├── Dashboard - Tableau dashboard <br>
 
 ---
 
