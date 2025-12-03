@@ -21,17 +21,15 @@ The analysis was conducted in a Jupyter Notebook (Python_Final_Project2.ipynb) a
 ## Project Objective
 
 The goal of this project is to:
-* Identify key factors contributing to employee attrition
+* Identify key factors contributing to employee attrition.
 
-* Analyze relationships between satisfaction, compensation, performance, and turnover
+* Analyze relationships between satisfaction, compensation, performance, and turnover.
 
-* Calculate HR-focused KPIs
+* Calculate HR-focused KPIs.
 
-* Build visualizations and insights for decision-makers
+* Build visualizations and insights for decision-makers.
 
-* Provide data-driven recommendations to reduce attrition
-
-The final outcome is a comprehensive dashboard and analysis report summarizing attrition patterns across the organization.
+* Provide data-driven recommendations to reduce attrition.
 
 ---
 
@@ -58,7 +56,7 @@ The dataset contains:
 1. **Data Loading & Cleaning**:
    * Imported dataset using Pandas
    * Checked missing values (none found)
-   * Created calculated fields (e.g., Satisfaction Index)
+   * Created calculated fields
 
 2. **Exploratory Data Analysis (EDA)**:
    * Visualized distributions of income, distance, tenure
@@ -126,12 +124,11 @@ Below are several graphs that together provide a comprehensive overview of attri
 
 From the analysis, several important patterns were identified:
 
-   * Low Work-Life Balance strongly correlates with higher attrition
-   * Employees with lower salaries tend to leave more frequently
-   * Attrition is significantly higher among employees with short tenure (0–2 years)
-   * Job roles such as Sales Representative show higher turnover compared to others
-   * Longer commute distances increase the likelihood of leaving
-   * Employees with fewer promotion opportunities show greater attrition risk
+   * Low Work-Life Balance correlates with higher attrition.
+   * Employees with lower salaries tend to leave more frequently.
+   * Attrition is significantly higher among employees with short tenure (0–2 years).
+   * Job roles such as Sales Representative show higher turnover compared to others.
+   * Longer commute distances increase the likelihood of leaving.
 
 ---
 
@@ -143,19 +140,19 @@ Based on the findings:
       Introduce hybrid models, flexible hours, and promote healthy workload practices.
 
    2. **Review Compensation Structure** <br>
-      Adjust salary for lower-level positions and ensure competitive packages. 
+      Evaluate and update salary ranges, especially for lower job levels. 
    
    3. **Support New Employees** <br>
       Strengthen onboarding and mentorship programs in the first 1–2 years.
    
    4. **Analyze High-Turnover Job Roles** <br>
-      Evaluate workload, job expectations, and development paths.
+      Examine roles with high attrition to identify workload or role-related issues.
 
-   5. **Allow Partial Remote Options for Long Commutes** <br>
+   5. **Provide partial remote-work flexibility for employees with long commutes** <br>
       This can significantly reduce attrition for far-distance employees.
 
-   6. **Establish Transparent Career Paths** <br>
-      Promote internal mobility and define promotion timelines.
+   6. **Create Clear Career Growth Paths** <br>
+      Define transparent promotion criteria and growth opportunities so employees know how they can advance within the organization.
 
 
 By implementing these strategies, HR can reduce attrition, improve employee satisfaction, and foster long-term organizational success.
@@ -164,5 +161,5 @@ By implementing these strategies, HR can reduce attrition, improve employee sati
 
 ## Authors:
 Ofir Ben-Harush, Tal Ezra, Neta Shtayer, Zvi Fuchs, Yelena Zamansky Glazer, Tehila Hamdi <br>
-Python | SQL | Tableau | Visualization
+Python | SQL | Tableau
 
