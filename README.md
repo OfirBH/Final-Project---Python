@@ -65,11 +65,11 @@ The dataset contains:
 
 3. **KPI Evaluation**: <br>
    Based on the project guidelines, the following KPIs were analyzed:
-   1. Attrition Trends & Patterns
-   2. Compensation & Benefits Analysis
-   3. Work-Life Balance & Satisfaction
-   4. Career Growth & Job Stability
-   5. Geographic & Commuting Factors
+   1. Attrition Trends and Patterns
+   2. Compensation and Benefits Analysis
+   3. Work-Life Balance and Satisfaction
+   4. Career Growth and Job Stability
+   5. Geographic and Commuting Factors
 
 ---
 
